@@ -1,6 +1,18 @@
-.titulo{
+.Titulo1{
     color: blueviolet;
 }
 .texto{
     color: darkorange;
+}
+.Titulo2{
+    color: darkcyan;
+}
+.texto2{
+    color: darkgoldenrod;
+}
+.Titulo3{
+    color: darkgreen;
+}
+.texto3{
+    color: darkred;
 }
